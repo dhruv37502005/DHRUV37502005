@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dhruv Rathor</h1>
 <h3 align="center">A Versatile developer with a passion for problem-solving. Eager to contribute to innovative projects and continuously learn and grow.</h3>
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/coding-programming-concept-illustration_188398-765.jpg">
 
 - 🔭 I’m currently working on **Django Projects**
 
