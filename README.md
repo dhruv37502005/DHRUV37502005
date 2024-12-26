@@ -4,8 +4,6 @@
 
 - 🔭 I’m currently working on **SAP and Java Based Projects**
 
-- 🌱 I’m currently learning **Sap UI 5**
-
 - 📫 How to reach me **dhruvr.3750@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
